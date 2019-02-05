@@ -19,3 +19,5 @@ chmod +x myscript
 
 #submit script to queue
 run_script myscript
+
+#This is my MrBayes script from HW1
